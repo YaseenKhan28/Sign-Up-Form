@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+  <script src="script.js"></script>
+<div class="background-image">
+ <!--
+This script places a badge on your repl's full-browser view back to your repl's cover page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green, teal, blue, blurple, magenta, pink!
+-->
+
+<script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
+</body>
+<p class= greeting>Welcome!</p>
+
+<label for="Sign Up" class="Sign-Up">Sign Up here:</label>
+<p>Name</p>
+<input type="text">
+
+<p>Age</p>
+<input type="text">
+
+<p>Gender</p>
+
+
+<select id="Gender">
+  <option value="Male">Male</option>
+  <option value="Female">Female</option>
+
+</select>
+  
+<p>Phone number</p>
+<input type="number">
+  
+<p>Email</p>
+<input type="text">
+
+<p>Password</p>
+<input type="text" type="number">
+
+
+
+ 
+
+
+
+</html>
